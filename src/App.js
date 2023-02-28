@@ -9,7 +9,7 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <div>
-      <Navbar title="TextUtils"/>
+      <Navbar title="NEWS-IL"/>
       <Main/>
     </div>
   );
